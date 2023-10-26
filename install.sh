@@ -147,8 +147,11 @@ on_install() {
 # The default permissions should be good enough for most cases
 
 set_permissions() {
+  ui_print " "
+  ui_print "- Setting Permissions"
   # The following is the default rule, DO NOT remove
   set_perm_recursive $MODPATH 0 0 0755 0644
+  set_perm_recursive  $MODPATH/system/product      0     0       0755      0644
 
   # Here are some examples:
   # set_perm_recursive  $MODPATH/system/lib       0     0       0755      0644
