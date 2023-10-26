@@ -1,6 +1,10 @@
 # immersive-keyboard-fix
 
-# For A13 + Devices only
+#Supported ROMS
+-> CRDROID
+-> LOS
+
+# For A13+ Devices only
 
 
 This is Magisk+KSU module to Hide navigation gesture pill but keep the keyboard minimize or changing bar enabled.
