@@ -1,8 +1,10 @@
 # immersive-keyboard-fix
 
 #Supported ROMS
--> CRDROID
--> LOS
+
+-> **CrDroid**
+
+-> **Lineage OS**
 
 # For A13+ Devices only
 
